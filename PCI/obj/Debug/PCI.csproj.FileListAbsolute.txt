@@ -1,0 +1,9 @@
+e:\PCI\PCI-master\PCI\bin\Debug\PCI.exe.config
+e:\PCI\PCI-master\PCI\bin\Debug\PCI.exe
+e:\PCI\PCI-master\PCI\bin\Debug\PCI.pdb
+e:\PCI\PCI-master\PCI\obj\Debug\PCI.csprojResolveAssemblyReference.cache
+e:\PCI\PCI-master\PCI\obj\Debug\PCI.PCISearcher.resources
+e:\PCI\PCI-master\PCI\obj\Debug\PCI.Properties.Resources.resources
+e:\PCI\PCI-master\PCI\obj\Debug\PCI.csproj.GenerateResource.Cache
+e:\PCI\PCI-master\PCI\obj\Debug\PCI.exe
+e:\PCI\PCI-master\PCI\obj\Debug\PCI.pdb
